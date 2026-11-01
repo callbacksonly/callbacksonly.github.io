@@ -26,35 +26,35 @@
 # ============================================================================
 
 
-title: Lucky Dip
+title: The Greater of Two Evils 
 date: 2026-10-02
 time: 7pm
 venue:
-tagline: $5 surprise improv show
+tagline: May worst person win...
 tickets:
-folder: lucky-dip
-description: The audience never knows what they’ll get, and neither do we.
+folder: tgote
+description: Thorg the Unifier and The Arch Duke of Menace, two of the worlds most darstardly super villians are competing for your vote to be president of the world.  
+---
+
+title: Fantasies Only
+date: 2026-09-04
+folder: FantasiesOnly
+tagline: A story from another world
+description: Join us to watch a long form story set in a world of magic and wonder. A high fantasy setting invented right before your eyes. 
 
 ---
 
-# TODO: give these three shows their real names, dates and descriptions.
-# Rename their folders too if you like (and update "folder:" to match).
-
-title: Untitled show
-date:
-folder: untitled-show-1
-description:
-
----
-
-title: Untitled show
-date:
-folder: untitled-show-2
-description:
+title: Hat Trick + Improv Murder Mystery  
+date: 2026-08-14
+folder: luckydipAug
+tagline: A two for one special!
+description: For August's lucky Dip you get a two for one special. 
+Hat Trick - medium form show with a magic hat that flutters from character to character. Whoever hold the hat is the main character. 
+ Improv Murder Mystery  - The audience is the assitant to a brilliant detective who uses short form improv games to solve the case of an unsolved murder.
 
 ---
 
-title: Untitled show
+title: Need I go on?
 date:
-folder: untitled-show-3
-description:
+folder: armando
+description: A fun, fast pased medium form show where we perform scenes inspired from real life stories.

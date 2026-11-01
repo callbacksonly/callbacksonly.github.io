@@ -14,56 +14,18 @@
 
 # TODO: replace the placeholders with each performer's details.
 
-name: Performer name
-role: Performer
-photo: performer-1.jpg
-bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
+name: Sam Heustice
+photo: Sam.jpg
+bio: Master of scenes, spitter of truth. The only thing sharper than his wit is his cheek bones. Sam creates worlds from his imagination, and dreams in the hearts of all who watch them. 
 
 ---
 
-name: Performer name
-role: Performer
-photo: performer-2.jpg
-bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
-
+name: Ethan Bright
+photo: Ethan.jpg
+bio: They do the improv very good.
 ---
 
-name: Performer name
-role: Performer
-photo: performer-3.jpg
-bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
-
+name: Finn O'keefe
+photo: Finn.jpg
+bio: dun dun dun.... boop boop bup... boop de boop. bup bup bup.
 ---
-
-name: Performer name
-role: Performer
-photo: performer-4.jpg
-bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
-
----
-
-name: Performer name
-role: Performer
-photo: performer-5.jpg
-bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
-
----
-
-name: Performer name
-role: Performer
-photo: performer-6.jpg
-bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
-
----
-
-name: Performer name
-role: Performer
-photo: performer-7.jpg
-bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
-
----
-
-name: Performer name
-role: Performer
-photo: performer-8.jpg
-bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
