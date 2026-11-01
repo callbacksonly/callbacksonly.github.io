@@ -12,11 +12,9 @@
 #  bio:    A sentence or two.
 # ============================================================================
 
-# TODO: replace the placeholders with each performer's details.
-
 name: Sam Heustice
 photo: Sam.jpg
-bio: Master of scenes, spitter of truth. The only thing sharper than his wit is his cheek bones. Sam creates worlds from his imagination, and dreams in the hearts of all who watch them. 
+bio: Master of scenes, spitter of truth. The only thing sharper than his wit is his cheekbones. Sam creates worlds from his imagination, and dreams in the hearts of all who watch them. 
 
 ---
 
@@ -25,7 +23,7 @@ photo: Ethan.jpg
 bio: They do the improv very good.
 ---
 
-name: Finn O'keefe
+name: Finn O'Keefe
 photo: Finn.jpg
 bio: dun dun dun.... boop boop bup... boop de boop. bup bup bup.
 ---
