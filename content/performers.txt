@@ -1,0 +1,69 @@
+# ============================================================================
+#  PERFORMERS
+#  ----------------------------------------------------------------------------
+#  One block per person, in the order they appear on the page.
+#  Put a line of three dashes (---) between people.
+#
+#  name:   Their name (required)
+#  role:   e.g. Performer, Musician, Host
+#  photo:  A file in content/performers/. Any size works; it's cropped to
+#          a portrait shape, keeping the top of the photo (where faces
+#          usually are). Leave empty to show their initials instead.
+#  bio:    A sentence or two.
+# ============================================================================
+
+# TODO: replace the placeholders with each performer's details.
+
+name: Performer name
+role: Performer
+photo: performer-1.jpg
+bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
+
+---
+
+name: Performer name
+role: Performer
+photo: performer-2.jpg
+bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
+
+---
+
+name: Performer name
+role: Performer
+photo: performer-3.jpg
+bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
+
+---
+
+name: Performer name
+role: Performer
+photo: performer-4.jpg
+bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
+
+---
+
+name: Performer name
+role: Performer
+photo: performer-5.jpg
+bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
+
+---
+
+name: Performer name
+role: Performer
+photo: performer-6.jpg
+bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
+
+---
+
+name: Performer name
+role: Performer
+photo: performer-7.jpg
+bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.
+
+---
+
+name: Performer name
+role: Performer
+photo: performer-8.jpg
+bio: A sentence or two about this performer: how they found improv, or the character they can’t stop playing.

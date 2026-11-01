@@ -1,0 +1,60 @@
+# ============================================================================
+#  SHOWS
+#  ----------------------------------------------------------------------------
+#  One block per show. Put a line of three dashes (---) between shows.
+#  The order doesn't matter: the website sorts them by date for you.
+#    - Shows dated today or later appear under "Coming up".
+#    - Everything else goes under "Past shows", newest first.
+#
+#  title:        The show's name (the only thing you must fill in)
+#  date:         Year-month-day, e.g. 2026-12-04. Leave empty if unknown.
+#  time:         e.g. 7pm
+#  venue:        Where it's on
+#  tagline:      One short line shown under the title
+#  tickets:      Link to buy tickets. Adds a "Get tickets" button.
+#  folder:       The folder inside content/shows/ holding this show's photos
+#  description:  As long as you like. Leave a blank line between paragraphs.
+#
+#  PHOTOS FOR A SHOW go in content/shows/<folder>/
+#    cover.jpg    The main photo shown in the list (cropped to fit)
+#    poster.jpg   Or use a poster instead: it's shown whole, never cropped
+#    01.jpg, 02.jpg, 03.jpg ...   Everything else, in this order, in the
+#                 show's gallery. Renumber the files to change the order.
+#
+#  To add a show: copy a block below, change the details, and make a folder
+#  with the same name you put after "folder:".
+# ============================================================================
+
+
+title: Lucky Dip
+date: 2026-10-02
+time: 7pm
+venue:
+tagline: $5 surprise improv show
+tickets:
+folder: lucky-dip
+description: The audience never knows what they’ll get, and neither do we.
+
+---
+
+# TODO: give these three shows their real names, dates and descriptions.
+# Rename their folders too if you like (and update "folder:" to match).
+
+title: Untitled show
+date:
+folder: untitled-show-1
+description:
+
+---
+
+title: Untitled show
+date:
+folder: untitled-show-2
+description:
+
+---
+
+title: Untitled show
+date:
+folder: untitled-show-3
+description:

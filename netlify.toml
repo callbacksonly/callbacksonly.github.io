@@ -1,0 +1,5 @@
+# If you host on Netlify and connect this folder through Git, Netlify will
+# build the site and publish the dist folder automatically on every change.
+[build]
+  command = "npm run build"
+  publish = "dist"

@@ -1,0 +1,8 @@
+# Installed tools (recreated by "npm install")
+node_modules/
+
+# The finished website (recreated by "npm run build")
+dist/
+
+.DS_Store
+Thumbs.db

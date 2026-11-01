@@ -1,0 +1,76 @@
+# ============================================================================
+#  SITE SETTINGS
+#  ----------------------------------------------------------------------------
+#  Contact details and the wording used around the page.
+#
+#  Each setting is a name, a colon, then the value:   email: hello@example.com
+#  A value can run over several lines. Leave a blank line between paragraphs.
+#  Lines starting with # are notes for you and never appear on the website.
+#  Leave a value empty to hide it (for example, a social network you don't use).
+# ============================================================================
+
+
+# ---- Contact ----------------------------------------------------------------
+
+email: hello@example.com
+
+instagram: https://www.instagram.com/
+facebook: https://www.facebook.com/
+tiktok:
+youtube:
+
+# Optional. Paste a form address from formspree.io and the contact form will
+# send messages straight to your inbox. Leave empty and the form opens the
+# visitor's own email app instead.
+form address:
+
+
+# ---- Top of the page --------------------------------------------------------
+
+hero line: Live improvised comedy in Ōtautahi Christchurch.
+
+# How long each photo in the big slideshow stays on screen
+seconds per hero photo: 6
+
+
+# ---- About ------------------------------------------------------------------
+
+about heading: A fresh new vibe for a wonderful artform
+
+# The first paragraph is shown larger than the rest.
+about text:
+Callbacks Only is an improvised comedy group based in Ōtautahi, Christchurch. We bring a fresh new vibe to a wonderful artform and love growing the improv scene in the Garden City.
+
+There’s no script. Every scene is invented live, so no two shows are ever the same.
+
+
+# ---- Shows ------------------------------------------------------------------
+
+shows intro: What’s coming up, and photos from nights gone by.
+
+# Shown under "Coming up" when no future shows are listed
+no shows message: Nothing on sale right now. Follow us to hear about the next show first.
+
+# How many past shows appear before the "See all past shows" button
+past shows to show: 3
+
+
+# ---- Performers -------------------------------------------------------------
+
+performers intro: The people you’ll see on stage.
+
+
+# ---- Contact section --------------------------------------------------------
+
+contact heading: Get in touch
+contact text: Book us for an event, ask about a show, or just say hello.
+
+
+# ---- Photo strip and search engines -----------------------------------------
+
+# The scrolling strip is filled automatically from the slideshow photos and
+# every show's photos. This caps how many it uses (it favours recent shows).
+photo strip limit: 40
+
+# The short description search engines like Google show under your site name
+search description: Callbacks Only is an improvised comedy group in Ōtautahi, Christchurch. See what’s coming up, browse photos from past shows and meet the performers.

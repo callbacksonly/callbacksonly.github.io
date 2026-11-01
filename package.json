@@ -1,0 +1,17 @@
+{
+  "name": "callbacks-only-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website for Callbacks Only, an improvised comedy group in Ōtautahi Christchurch",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/build.mjs --serve",
+    "build": "node scripts/build.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.35.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
